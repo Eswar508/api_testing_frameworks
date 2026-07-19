@@ -1,0 +1,32 @@
+[
+    {
+        "name":"three",
+        "email":"",
+        "gender":"",
+        "status":""
+    },
+    {
+        "name":"four",
+        "email":1231,
+        "gender":"female",
+        "status":true
+    },
+    {
+        "name":"five",
+        "email":"five@gmail.com",
+        "gender":"human",
+        "status":"activa"
+    },
+    {
+        "name":"six",
+        "email":"sixgmail.com",
+        "gender":"female",
+        "status":"active"
+    },
+    {
+    "name":"one",
+    "email":"one@gmail.com",
+    "gender":"male",
+    "status":"active"
+    }
+]

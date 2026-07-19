@@ -1,0 +1,20 @@
+[
+    {
+        "name": "usern",
+        "age": 34,
+        "email": "usern@gmail.com",
+        "result": "failed"
+    },
+    {
+        "name": "userm",
+        "age": 35,
+        "email": "userm@gmail.com",
+        "result": "passed"
+    },
+    {
+        "name": "usero",
+        "age": 36,
+        "email": "usero@gmail.com",
+        "result": "passed"
+    }
+]

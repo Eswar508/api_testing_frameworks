@@ -1,0 +1,2 @@
+[32mINFO    [0m apilogs:api_client.py:12 getting token with data : {'username': 'admin', 'password': 'wrongpassword'}
+[32mINFO    [0m apilogs:api_client.py:19 failed token generation with status code : 200

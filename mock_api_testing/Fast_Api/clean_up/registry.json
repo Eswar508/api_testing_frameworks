@@ -1,0 +1,130 @@
+{
+     "1": {
+          "user_id": 1,
+          "name": "adminA",
+          "email": "admin1@gmail.com",
+          "age": 21,
+          "gender": "female",
+          "department": "cse"
+     },
+     "2": {
+          "user_id": 2,
+          "name": "adminB",
+          "email": "admin2@gmail.com",
+          "age": 23,
+          "gender": "female",
+          "department": "eee"
+     },
+     "3": {
+          "user_id": 3,
+          "name": "adminC",
+          "email": "admin3@gmail.com",
+          "age": 23,
+          "gender": "male",
+          "department": "civil"
+     },
+     "4": {
+          "user_id": 4,
+          "name": "adminD",
+          "email": "admin4@gmail.com",
+          "age": 23,
+          "gender": "male",
+          "department": "mechanical"
+     },
+     "5": {
+          "user_id": 5,
+          "name": "adminE",
+          "email": "admin5@gmail.com",
+          "age": 23,
+          "gender": "female",
+          "department": "ece"
+     },
+     "6": {
+          "user_id": 6,
+          "name": "adminF",
+          "email": "admin6@gmail.com",
+          "age": 43,
+          "gender": "male",
+          "department": "cse"
+     },
+     "8": {
+          "user_id": 8,
+          "name": "studentB",
+          "age": 23,
+          "gender": "female",
+          "email": "student2@gmail.com",
+          "cgpa": 9.2
+     },
+     "9": {
+          "user_id": 9,
+          "name": "studentC",
+          "age": 19,
+          "gender": "female",
+          "email": "student3@gmail.com",
+          "cgpa": 7.5
+     },
+     "10": {
+          "user_id": 10,
+          "name": "studentD",
+          "age": 18,
+          "gender": "male",
+          "email": "student4@gmail.com",
+          "cgpa": 8.0
+     },
+     "11": {
+          "user_id": 11,
+          "name": "studentE",
+          "age": 20,
+          "gender": "female",
+          "email": "student5@gmail.com",
+          "cgpa": 9.4
+     },
+     "12": {
+          "user_id": 12,
+          "name": "studentF",
+          "age": 18,
+          "gender": "male",
+          "email": "student6@gmail.com",
+          "cgpa": 8.5
+     },
+     "13": {
+          "user_id": 13,
+          "name": "studentG",
+          "age": 21,
+          "gender": "male",
+          "email": "student7@gmail.com",
+          "cgpa": 9.6
+     },
+     "14": {
+          "user_id": 14,
+          "name": "studentH",
+          "age": 21,
+          "gender": "male",
+          "email": "student8@gmail.com",
+          "cgpa": 9.6
+     },
+     "15": {
+          "user_id": 15,
+          "name": "studentI",
+          "age": 21,
+          "gender": "male",
+          "email": "student9@gmail.com",
+          "cgpa": 9.6
+     },
+     "16": {
+          "user_id": 16,
+          "name": "studentJ",
+          "age": 21,
+          "gender": "male",
+          "email": "student10@gmail.com",
+          "cgpa": 9.6
+     },
+     "17": {
+          "user_id": 17,
+          "name": "studentD",
+          "age": 21,
+          "gender": "male",
+          "email": "student11@gmail.com",
+          "cgpa": 9.6
+     }
+}

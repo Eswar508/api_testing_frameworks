@@ -1,0 +1,45 @@
+{
+    "total_tests":7,
+    "total_responsecodes":3,
+    "201":
+    {
+        "tests":["valid fields","extra invalid fields"],
+        "body":
+        {
+        "id":"integer",
+        "name":"string",
+        "email":"string",
+        "gender":"string",
+        "status":"string"
+        }
+    },
+    "422":
+    {
+        "tests":["empty fields","invalid data types","invalid enum values","wrong email","duplicate body"],
+        "body":
+        [
+            {
+              "field": "name",
+              "message": "can't be blank"
+            },
+            {
+              "field": "gender",
+              "message": "can't be blank, can be male of female"
+            },
+            {
+              "field": "status",
+              "message": "can't be blank"
+            },
+            {
+                "field":"email",
+                "message":["is invalid","can't be blank"]
+            }
+        ]
+    },
+    "401":
+    {
+        "tests":["random token","empty token"],
+        "body":{"message":"Authentication failed"}
+    }
+
+}

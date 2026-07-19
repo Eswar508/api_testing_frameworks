@@ -1,0 +1,6 @@
+[32mINFO    [0m apilogs:api_client.py:9 _________API endpoint pointed to /auth_________
+[32mINFO    [0m apilogs:api_client.py:12 getting token with data : {'username': 'admin', 'password': 'password123'}
+[32mINFO    [0m apilogs:api_client.py:17 generated token : 361d23ce49a1e4d for status code : 200
+[32mINFO    [0m apilogs:api_client.py:9 _________API endpoint pointed to /auth_________
+[32mINFO    [0m apilogs:api_client.py:12 getting token with data : {'username': 'admin', 'password': 'password123'}
+[32mINFO    [0m apilogs:api_client.py:17 generated token : b084fdb37236c36 for status code : 200

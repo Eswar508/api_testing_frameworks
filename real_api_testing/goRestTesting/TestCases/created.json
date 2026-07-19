@@ -1,0 +1,14 @@
+[{
+    "name":"one",
+    "email":"one@gmail.com",
+    "gender":"male",
+    "status":"active"
+  },
+  {
+    "name":"two",
+    "email":"two@gmail.com",
+    "gender":"male",
+    "status":"active",
+    "age":33
+  }
+]

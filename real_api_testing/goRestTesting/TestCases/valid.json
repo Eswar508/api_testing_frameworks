@@ -1,0 +1,14 @@
+[
+{
+    "name":"nikola",
+    "email":"nikola@gmail.com",
+    "gender":"male",
+    "status":"active"
+},
+{
+    "name":"tesla",
+    "email":"tesla@gmail.com",
+    "gender":"male",
+    "status":"active"
+}
+]

@@ -1,0 +1,54 @@
+2026-06-27 22:14:14,575 - apilogs - INFO - _________API endpoint pointed to /auth_________
+2026-06-27 22:14:14,575 - apilogs - INFO - getting token with data : {'username': 'admin', 'password': 'password123'}
+2026-06-27 22:14:16,109 - apilogs - INFO - generated token : 0bedf3d1921afb9 for status code : 200
+2026-06-27 22:14:16,109 - apilogs - INFO - _________API endpoint pointed to /auth_________
+2026-06-27 22:14:16,109 - apilogs - INFO - getting token with data : {'username': 'admin', 'password': 'password123'}
+2026-06-27 22:14:16,435 - apilogs - INFO - generated token : 20cc2abb70529a5 for status code : 200
+2026-06-27 22:14:16,510 - apilogs - INFO - getting token with data : {'username': 'aparichithudu', 'password': 'password123'}
+2026-06-27 22:14:16,821 - apilogs - INFO - failed token generation with status code : 200
+2026-06-27 22:14:16,831 - apilogs - INFO - getting token with data : {'username': 'admin', 'password': 'wrongpassword'}
+2026-06-27 22:14:17,160 - apilogs - INFO - failed token generation with status code : 200
+2026-06-27 22:19:26,984 - apilogs - INFO - _________API endpoint pointed to /auth_________
+2026-06-27 22:19:26,984 - apilogs - INFO - getting token with data : {'username': 'admin', 'password': 'password123'}
+2026-06-27 22:20:36,786 - apilogs - INFO - _________API endpoint pointed to /auth_________
+2026-06-27 22:20:36,787 - apilogs - INFO - getting token with data : {'username': 'admin', 'password': 'password123'}
+2026-06-27 22:23:12,220 - apilogs - INFO - _________API endpoint pointed to /auth_________
+2026-06-27 22:23:12,220 - apilogs - INFO - getting token with data : {'username': 'admin', 'password': 'password123'}
+2026-06-27 22:23:14,530 - apilogs - INFO - generated token : 0c3aa4759202d17 for status code : 200
+2026-06-27 22:23:14,533 - apilogs - INFO - _________API endpoint pointed to /auth_________
+2026-06-27 22:23:14,535 - apilogs - INFO - getting token with data : {'username': 'admin', 'password': 'password123'}
+2026-06-27 22:23:14,850 - apilogs - INFO - generated token : 91b89fc09722a87 for status code : 200
+2026-06-27 22:23:14,864 - apilogs - INFO - getting token with data : {'username': 'aparichithudu', 'password': 'password123'}
+2026-06-27 22:23:15,234 - apilogs - INFO - failed token generation with status code : 200
+2026-06-27 22:23:15,248 - apilogs - INFO - getting token with data : {'username': 'admin', 'password': 'wrongpassword'}
+2026-06-27 22:23:15,551 - apilogs - INFO - failed token generation with status code : 200
+2026-06-27 22:28:47,074 - apilogs - INFO - _________API endpoint pointed to /auth_________
+2026-06-27 22:28:47,074 - apilogs - INFO - getting token with data : {'username': 'admin', 'password': 'password123'}
+2026-06-27 22:28:48,761 - apilogs - INFO - generated token : 0615905efb042b1 for status code : 200
+2026-06-27 22:28:48,762 - apilogs - INFO - _________API endpoint pointed to /auth_________
+2026-06-27 22:28:48,764 - apilogs - INFO - getting token with data : {'username': 'admin', 'password': 'password123'}
+2026-06-27 22:28:49,071 - apilogs - INFO - generated token : 1ccdc3e4043e326 for status code : 200
+2026-06-27 22:28:49,087 - apilogs - INFO - getting token with data : {'username': 'aparichithudu', 'password': 'password123'}
+2026-06-27 22:28:49,485 - apilogs - INFO - failed token generation with status code : 200
+2026-06-27 22:28:49,496 - apilogs - INFO - getting token with data : {'username': 'admin', 'password': 'wrongpassword'}
+2026-06-27 22:28:49,886 - apilogs - INFO - failed token generation with status code : 200
+2026-06-27 22:30:07,739 - apilogs - INFO - _________API endpoint pointed to /auth_________
+2026-06-27 22:30:07,739 - apilogs - INFO - getting token with data : {'username': 'admin', 'password': 'password123'}
+2026-06-27 22:30:09,551 - apilogs - INFO - generated token : e5b946ef13520ef for status code : 200
+2026-06-27 22:30:09,557 - apilogs - INFO - _________API endpoint pointed to /auth_________
+2026-06-27 22:30:09,560 - apilogs - INFO - getting token with data : {'username': 'admin', 'password': 'password123'}
+2026-06-27 22:30:09,864 - apilogs - INFO - generated token : 7754ca027154899 for status code : 200
+2026-06-27 22:30:09,876 - apilogs - INFO - getting token with data : {'username': 'aparichithudu', 'password': 'password123'}
+2026-06-27 22:30:10,175 - apilogs - INFO - failed token generation with status code : 200
+2026-06-27 22:30:10,181 - apilogs - INFO - getting token with data : {'username': 'admin', 'password': 'wrongpassword'}
+2026-06-27 22:30:10,576 - apilogs - INFO - failed token generation with status code : 200
+2026-06-27 22:32:40,867 - apilogs - INFO - _________API endpoint pointed to /auth_________
+2026-06-27 22:32:40,867 - apilogs - INFO - getting token with data : {'username': 'admin', 'password': 'password123'}
+2026-06-27 22:32:43,058 - apilogs - INFO - generated token : 361d23ce49a1e4d for status code : 200
+2026-06-27 22:32:43,060 - apilogs - INFO - _________API endpoint pointed to /auth_________
+2026-06-27 22:32:43,062 - apilogs - INFO - getting token with data : {'username': 'admin', 'password': 'password123'}
+2026-06-27 22:32:43,381 - apilogs - INFO - generated token : b084fdb37236c36 for status code : 200
+2026-06-27 22:32:43,393 - apilogs - INFO - getting token with data : {'username': 'aparichithudu', 'password': 'password123'}
+2026-06-27 22:32:43,768 - apilogs - INFO - failed token generation with status code : 200
+2026-06-27 22:32:43,775 - apilogs - INFO - getting token with data : {'username': 'admin', 'password': 'wrongpassword'}
+2026-06-27 22:32:44,177 - apilogs - INFO - failed token generation with status code : 200
