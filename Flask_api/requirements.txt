@@ -1,0 +1,10 @@
+pytest
+pytest-html
+pyjwt
+requests
+marshmallow
+Flask
+psycopg[binary]
+SQLAlchemy
+python-dotenv
+allure-pytest

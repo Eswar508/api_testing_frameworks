@@ -1,0 +1,28 @@
+name: API Test Framework CI
+
+on:
+  push:
+    branches: [main, develop]
+
+  pull_request:
+    branches: [main, develop]
+
+  workflow_dispatch:
+
+jobs:
+  run-tests:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+      - name: Build and Start Containers
+        env:
+          SECRET_KEY: ${{ secrets.SECRET_KEY }}
+          JWT_ALGORITHM: HS256
+          JWT_EXPIRY_HOURS: 1
+        run: docker compose up --build -d
+      - name: Create Database Tables
+        run: docker compose exec -T app python -m flask_api.data_base.data_clients.create_tables
+      - name: Run Pytest Tests
+        run: docker compose exec -T app pytest
+      

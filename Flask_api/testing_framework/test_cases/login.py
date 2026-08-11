@@ -1,0 +1,9 @@
+invalid_email={"email":"invalid@example.com","password":"@User1234"}
+invalid_password={"email":"user1@example.com","password":"invalidpassword"}
+missing_email={"password":"validpassword"}
+missing_password={"email":"user1@gmail.com"}
+non_existing_user={"email":"nonexistent@gmail.com","password":"@User1234"}
+valid_user={"email":"user1@gmail.com","password":"@User1234"}
+staff={"email":"user1@gmail.com","password":"@STaff1234"}
+admin={"email":"admin@gmail.com","password":"@Admin1234"}
+data=[{"email":"user1@gmail.com","password":"@User1234"},{"email":"user2@gmail.com","password":"@User1234"}]

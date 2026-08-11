@@ -1,0 +1,9 @@
+patch_payload={"name":"patched name","price":99999999}
+update_payload={"name":"updated name","price":99999999,"stock":99,"description":"this is updated","status":True,"category_id":1}
+invalid_update_payload={"name":"updated name","stock":"99","description":"this is updated","status":True,"category_id":1,"invalid_field":"invalid"}
+invalid_patch_payload={"name":333,"stock":99,"description":"this is updated"}
+duplicate_patch_payload={"name":"geaser"}
+duplicate_update_payload={"name":"geaser","price":99999999,"stock":99,"description":"this is updated","status":True,"category_id":1}
+missing_fields_payload={"name":"updated name","price":99999999,"description":"this is updated"}
+invalid_fields={"name":333,"price":"99999999","stock":"99","description":"this is updated","status":True,"category_id":1}
+duplicate_fields={"name":"geaser","price":99999999,"stock":99,"description":"this is updated","status":True,"category_id":1}
